@@ -1,6 +1,5 @@
 package org.jointheleague.features.examples.first_features;
 
-
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
